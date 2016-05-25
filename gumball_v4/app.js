@@ -55,10 +55,8 @@ var db_name = "db" ;
 */
 
 
-var db_host = "localhost" ;
+var db_host = "ec2-52-26-15-244.us-west-2.compute.amazonaws.com" ;
 var db_port = "27017" ;
-var db_user = "cmpe281" ;
-var db_pwd  = "cmpe281" ;
 var db_name = "test" ;
 
    
